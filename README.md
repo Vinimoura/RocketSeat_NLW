@@ -8,17 +8,17 @@
 
 ## :bookmark_tabs: Sumário 
 
--[Informação Básica] (#informação-básica)
--[Tecnologias Aplicadas] (#tecnologias-aplicadas)
+-[Informação Básica].(#informação-básica)
+-[Tecnologias Aplicadas].(#tecnologias-aplicadas)
 
 <a id="Informação Básica"></a>
 
 ## :bookmark: Informação Básica
-
 <h2 align = "center">:recycle: <br> 
 </h2>
  
-Maratona de Desenvolvimento oferecida pela Rocket Seat :rocket: com elaboração de Market place para coleta de residuos.
+Maratona de Desenvolvimento oferecida pela Rocket Seat :rocket:
+Elaboração de Market place para coleta de residuos em 5 dias.
 
 ## :joystick: Tecnologias Aplicadas
 
