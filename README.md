@@ -8,8 +8,8 @@
 
 ## :bookmark_tabs: Sumário 
 
--[Informação Básica] (#Informação Básica)
--[Tecnologias Aplicadas] (#Tecnologias Aplicadas)
+-[Informação Básica] (#informação-básica)
+-[Tecnologias Aplicadas] (#tecnologias-aplicadas)
 
 <a id="Informação Básica"></a>
 
